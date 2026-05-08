@@ -53,7 +53,3 @@ Ouvrir un terminal dans le dossier du projet puis lancer : `npm install`
 
 `https://keligmartin.github.io/api/stocks.json`
 
-## Groupe
-
-- Membres : a completer
-- Depot Git : a completer
